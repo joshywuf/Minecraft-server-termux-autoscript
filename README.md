@@ -97,7 +97,7 @@ Forward the server's port on your router to your phone's local IP, then share yo
 ### 🛡️ NordVPN Meshnet (easiest)
 No router settings needed. Meshnet gives every device a virtual IP so you and your friends can connect as if you were on the same network.
 
-1. Install NordVPN and turn on **Meshnet** on your phone and your friends' devices
+1. Install NordVPN [https://nordvpn.com/download/] and turn on **Meshnet** on your phone and your friends' devices
 2. Link the devices together
 3. Join the server using the **Meshnet IP** of the phone running the server
 
